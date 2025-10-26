@@ -1,0 +1,1 @@
+import{j as e}from"./index-b3-5e3SP.js";import{P as o}from"./page-layout-U4TbDlyy.js";import{P as t}from"./placeholder-content-DgcXRIlZ.js";function n(){return e.jsx(o,{title:"Visit www.pixelrocket.store to learn how to become a frontend web developer",children:e.jsx(t,{})})}export{n as default};
